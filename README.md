@@ -1,1 +1,2 @@
-# WateringHole-Attack-Detection
+### WateringHole-Attack-Detection
+A watering hole attack is a targeted attack designed to compromise users within a specific industry or group of users by infecting websites they typically visit and luring them to a malicious site. The end goal is to infect the user’s computer with malware and gain access to the organization’s network. Watering hole attacks, also known as strategic website compromise attacks, are limited in scope as they rely on an element of luck. They do however become more effective, when combined with email prompts to lure users to websites.
